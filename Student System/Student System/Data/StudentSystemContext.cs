@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Student_System.Data
 {
-    public class StudentSystemDbContext : DbContext
+    public class StudentSystemContext : DbContext
     {
 
     }
